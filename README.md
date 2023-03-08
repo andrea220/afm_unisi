@@ -1,2 +1,1 @@
-# afm_unisi
-Advanced Financial Modeling course
+# Advanced Financial Modeling course
